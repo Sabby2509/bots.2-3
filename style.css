@@ -13,7 +13,7 @@ body{
 }
 
 .header-custom{
-    background-image: url(./media/bg_1.jpg);
+    background-image: url(bg_1.jpg);
 }
 
 .btn-custom{
@@ -51,7 +51,7 @@ body{
 
 .section3-custom{
     min-height: 70vh;
-    background-image: url(./media/bg_2.jpg) ;
+    background-image: url(bg_2.jpg) ;
     background-size: cover;
     background-position: center;
 }
@@ -84,7 +84,7 @@ input{
 
 
 .section5-custom{
-    background-image:url(./media/bg_3.jpg);
+    background-image:url(bg_3.jpg);
     background-size: cover;
     background-position: center;
 }
